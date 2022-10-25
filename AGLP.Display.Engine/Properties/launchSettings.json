@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AGLP.Display.Engine": {
+      "commandName": "Project",
+      "commandLineArgs": "-EngineParameters.InImagePath=c:/balls -EngineParameters.VerboseLog -EngineFunction.FTS "
+    }
+  }
+}

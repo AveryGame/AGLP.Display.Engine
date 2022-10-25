@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "wlPBm0NmtWw2kpbyoUXTIOYRMiuqbFTpuBcIw20scw2THcQ8mqPSGAAlbKXVLJy69db5f4/HtlDrFnGuIP7Zmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shawn\\OneDrive\\Documents\\Visual Studio Projects\\AGLP.Engine\\AGLP.Display.Engine\\AGLP.Display.Engine\\AGLP.Display.Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shawn\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\shawn\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\shawn\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\shawn\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\shawn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}

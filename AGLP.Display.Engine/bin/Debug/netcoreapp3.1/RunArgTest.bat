@@ -1,0 +1,1 @@
+AGLP.Display.Engine.exe -EngineParameters.InImagePath=C:\Users\shawn\Downloads\watching.jpg -EngineParamaters.OutImagePath=C:/OutImage -EngineParameters.VerboseLog
